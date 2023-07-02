@@ -1,3 +1,3 @@
-youtube_transcript_api dev
-openai dev
-streamlit-chat dev
+youtube_transcript_api-dev
+openai-dev
+streamlit-chat-dev

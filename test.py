@@ -11,7 +11,7 @@ st.set_page_config(
     page_icon=im,
 )
 
-openai.api_key = "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"
+openai.api_key = "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"
 def get_transcript(video_id):
     before, sep, after = video_id.partition('=')
     if len(after) > 0:

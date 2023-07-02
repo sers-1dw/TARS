@@ -1,1 +1,2 @@
 youtube_transcript_api dev
+openai dev
